@@ -44,7 +44,7 @@ export default function Sidebar({ activePage, onNavigate }: SidebarProps) {
       {/* Logo */}
       <div className="flex items-center gap-3 px-5 py-5 border-b border-white/10">
         <div className="w-9 h-9 rounded-lg overflow-hidden flex-shrink-0 bg-white">
-          <img src="/LOGO_UNTUK_APLIKASI_SUMATIF copy.png" alt="SIMPATIK" className="w-full h-full object-contain" />
+          <img src="/logo.png" alt="SIMPATIK" className="w-full h-full object-contain" />
         </div>
         <div>
           <div className="font-bold text-base leading-tight tracking-wide">SIMPATIK</div>
